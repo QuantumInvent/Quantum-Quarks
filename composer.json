@@ -1,0 +1,13 @@
+{
+    "name": "quantuminvent/quantum-quarks",
+    "description": "desc",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Achraf Soltani",
+            "email": "achraf.soltani@quantuminvent.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
